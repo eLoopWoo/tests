@@ -1,2 +1,3 @@
 # tests
-experimenting with github api :-)
+## experimenting with GitHub API
+unfortunate testing repository :-)
